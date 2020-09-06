@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/Mario Bino Go/Temp
+/Mario Bino Go/ProjectSettings
+/Mario Bino Go/Packages
+/Mario Bino Go/obj/Debug
+/Mario Bino Go/Logs
+/Mario Bino Go/Library
